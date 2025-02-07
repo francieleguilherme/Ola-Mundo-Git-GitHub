@@ -1,3 +1,3 @@
 # Ola-Mundo-Git-GitHub
-Primeiro repositório do curso **Git e GitHub** do Professor *Gustavo Guanabara*. 💻
+Primeiro repositório do curso *Git e GitHub* do Professor **Gustavo Guanabara**. 💻
 
